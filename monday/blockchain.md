@@ -12,12 +12,12 @@
   * Title: Principal PM Manager
   * Employer: Microsoft
   * #### Biography
-   * > Jason leads the Azure Blockchain Service team at Microsoft and has been with Microsoft 23 years, working on everything from battery-backed power supplies for PCs to globally-scaled Azure services.
+    * > Jason leads the Azure Blockchain Service team at Microsoft and has been with Microsoft 23 years, working on everything from battery-backed power supplies for PCs to globally-scaled Azure services.
 * Chris Segura
- * Title: Principal Program Manager
- * Employer: Microsoft
- * #### Biography
-  * > Chris Segura is a Program Manager in the Azure Azure Blockchain product team and leads the developer experience efforts for Blockchain in Azure. While at Microsoft, Chris has focused on developing development and ecosystem partners from silicon vendors, ODM/OEMs, through ISVs and SIs in various markets. Before joining Microsoft, Chris held various marketing, partner development, and application engineering positions at Intel and in several startups around the country ranging from the RFID/IoT space to optical communication and core network transport equipment.
+  * Title: Principal Program Manager
+  * Employer: Microsoft
+  * #### Biography
+    * > Chris Segura is a Program Manager in the Azure Azure Blockchain product team and leads the developer experience efforts for Blockchain in Azure. While at Microsoft, Chris has focused on developing development and ecosystem partners from silicon vendors, ODM/OEMs, through ISVs and SIs in various markets. Before joining Microsoft, Chris held various marketing, partner development, and application engineering positions at Intel and in several startups around the country ranging from the RFID/IoT space to optical communication and core network transport equipment.
 
 
 [Slides](https://google.com)
