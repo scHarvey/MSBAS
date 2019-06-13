@@ -1,4 +1,4 @@
-#Microsoft Dynamics 365 for Customer Service: Microsoft AI integration and roll-out plans
+# Microsoft Dynamics 365 for Customer Service: Microsoft AI integration and roll-out plans
 #### When:	Tuesday, June 11
 #### Time:	9:30 AM - 10:30 AM
 #### Location:	Building C - Level 1 - Room C105 - C106
