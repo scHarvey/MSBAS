@@ -23,5 +23,68 @@
 [Slides](https://google.com)
 
 
-### Notes
+# Notes
 
+## Blockchain Basics
+
+- Data is stored in a distributed ledger - record of every transaction
+- Ledger can only be updated via network consensus, therefore information can't be altered it deleted without the knowledge of the network
+- "proof of work"
+- Bitcoin 3-5 transactions per second
+
+## Not all blockchains are the same
+
+- Public Blockchain networks - bitcoin
+- Permissioned Blockchain networks - quorum (ethereum), hyperledger, r3 corda
+
+## When to use Blockchain
+
+- A business process crossed trust boundaries
+- Multiple parties work off same source of data
+- Intermediary controls a single source of truth
+- Process involves low value manual verification steps
+
+## Industry independent
+
+## Insurance use cases
+
+- Claims management
+- Fraud detection
+
+https://aka.ms/blockchainintro
+
+## Supply chain use case
+
+![](../assets/20190610_104911-11971649-479c-419c-8057-e6924795fba3.jpg)
+
+![](../assets/20190610_105014-c86bfe3d-b8d9-42bb-b9bf-d5b714cb3e5f.jpg)
+
+![](../assets/20190610_105104-f45b0273-3f5c-4ea7-8608-56bb4af1a9e6.jpg)
+
+## Steps
+
+- Launch and manage network
+- Model smart contacts
+- Build and extend applications
+
+## Enter Azure Blockchain Service
+
+- Quorum 500-600 transactions second
+- Trusted Execution Environments
+
+![](../assets/20190610_111329-c3e6bdaa-b610-4d21-87cf-623b4b1edd26.jpg)
+
+## Logic app and Ms flow connector update
+
+- Private transactions
+- Added support for R3 Corda
+
+![](../assets/20190610_112254-14c002b2-14f2-4c62-b6b5-084be6a1ecfd.jpg)
+
+![](../assets/20190610_112443-6ac5bf53-f409-45c8-b355-5f6ba6190853.jpg)
+
+![](../assets/20190610_112517-fa2c6dbc-e8a9-4f16-b845-da551c655762.jpg)
+
+### Questions
+
+- Why choose Corda or Ethereum?
