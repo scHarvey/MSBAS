@@ -9,4 +9,7 @@
 - [***8:15-9:15 :* Tried and tested techniques for establishing a Center of Excellence**](./tuesday/powerapps-coe.md)
 - [***9:30-10:30 :* Microsoft Dynamics 365 for Customer Service: Microsoft AI integration and roll-out plans**](./tuesday/ai-rollout.md)
 - [***10:45-11:45 :* Microsoft PowerApps: Run one UI - the future of canvas, model-driven, and Unified Interface in PowerApps**](./tuesday/oneui.md)
-- [***1:15-3:15 :* Microsoft PowerApps: Hands on with AI BUilder, a new capability that makes AI easy to add within the Power Platform**](./tuesday/oneui.md)
+- [***1:15-3:15 :* Microsoft PowerApps: Hands on with AI Builder, a new capability that makes AI easy to add within the Power Platform**](./tuesday/oneui.md)
+
+
+[Photos](photos.md)
