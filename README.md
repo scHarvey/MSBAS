@@ -12,4 +12,4 @@
 - [***1:15-3:15 :* Microsoft PowerApps: Hands on with AI Builder, a new capability that makes AI easy to add within the Power Platform**](./tuesday/oneui.md)
 
 
-*[Photos](photos.md)*
+## [Photos](photos.md)
