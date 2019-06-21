@@ -4,6 +4,9 @@
 #### Location:	Building C - Level 1 - Room C105 - C106
 #### Code:	BRK2019
 
+#### [Slides](https://powerusers.microsoft.com/t5/MBAS-Gallery/Microsoft-Dynamics-365-for-Customer-Service-Microsoft-AI/m-p/299972)
+
+
 ## Description:
 > Hear the latest on how artificial intelligence is making its way into Microsoft Dynamics 365 for Customer Service. View demos, try the product, and learn about roll out plans.
 
@@ -13,8 +16,6 @@
   * Employer:
   * #### Biography
     * > 
-
-[Slides](https://google.com)
 
 
 # Notes
