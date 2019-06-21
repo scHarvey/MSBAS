@@ -4,6 +4,9 @@
 #### Location:	Building C - Level 1 - Room C111
 #### Code:	WRK2001
 
+#### [Slides]()
+
+
 ## Description:
 > Microsoft Flow is increasingly becoming the unified workflow platform across Microsoft Dynamics 365 and Office 365, helping organizations automate and extend processes directly from business and productivity apps like Microsoft Teams, Excel, Visio, OneDrive, and more. Join this workshop to discover hands-on the rich capabilities of Microsoft Flow in the context of these apps.
 
