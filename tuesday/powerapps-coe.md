@@ -3,6 +3,9 @@
 #### Time:	8:15 AM - 9:15 AM
 #### Location:	Building C - Level 1 - Room C105 - C106
 #### Code:	BRK2004
+
+#### [Slides](https://powerusers.microsoft.com/t5/MBAS-Gallery/Microsoft-PowerApps-Tried-and-tested-techniques-for-establishing/m-p/299979)
+
 ## Description:
 > Learn how enterprise IT departments have established a Center of Excellence (CoE) to drive internal adoption of Microsoft PowerApps and handle governance for hundreds of production apps. Using examples from organizations such as London Heathrow airport, SNCF, Chevron, and internally at Microsoft, we walk through strategies, best practices, and tooling approaches that have helped land low-code powered digital transformation.
 
@@ -15,9 +18,6 @@
 * Saurabh Pant
   * Title:
   * Employer:
-
-
-[Slides](https://google.com)
 
 # Notes
 ![](../assets/20190611_082908-fa97af74-b309-439c-8b67-081486636069.jpg)
