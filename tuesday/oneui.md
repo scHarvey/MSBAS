@@ -3,8 +3,13 @@
 #### Time:	10:45 AM - 11:45 AM
 #### Location:	Building C - Level 1 - Room C101
 #### Code:	BRK2073
+
+#### [Slides](https://powerusers.microsoft.com/t5/MBAS-Gallery/Microsoft-PowerApps-Run-one-UI-the-future-of-canvas-model-driven/m-p/301579)
+
 ## Description:
 > Microsoft PowerApps is converging on a single, powerful platform for building and customizing app user experiences. See what’s new and what’s coming next for Unified Interface, the modern model-driven experience that succeeds the Microsoft Dynamics 365 web client. Then, get an inside look at our strategy for converging the flexibility of the PowerApps canvas with the power of this declarative platform.
+
+
 
 ### Speakers
 * Clay Wesener
@@ -15,9 +20,6 @@
 * Rick Prologo
   * Title: Principal Group Program Manager
   * Employer: Microsoft
-
-
-[Slides](https://google.com)
 
 
 # Notes
