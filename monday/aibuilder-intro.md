@@ -1,10 +1,10 @@
 # Microsoft Dynamics 365 for Customer Service: Microsoft AI integration and roll-out plans
-#### When:	Tuesday, June 11
-#### Time:	9:30 AM - 10:30 AM
-#### Location:	Building C - Level 1 - Room C105 - C106
-#### Code:	BRK2019
+#### When:	Monday, June 10
+#### Time:	3:30 AM - 4:30 AM
+#### Location:	Building C - Level 1 - Room C101
+#### Code:	BRK1019
 
-#### [Slides](https://powerusers.microsoft.com/t5/MBAS-Gallery/Microsoft-Dynamics-365-for-Customer-Service-Microsoft-AI/m-p/299972)
+#### [Slides](https://powerusers.microsoft.com/t5/MBAS-Gallery/Microsoft-PowerApps-and-Microsoft-Flow-Introduction-and-Roadmap/m-p/299129)
 
 ## Description:
 > Hear the latest on how artificial intelligence is making its way into Microsoft Dynamics 365 for Customer Service. View demos, try the product, and learn about roll out plans.
