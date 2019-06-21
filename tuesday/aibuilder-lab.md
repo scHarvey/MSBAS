@@ -14,8 +14,6 @@
   * #### Biography
     * > 
 
-[Slides](https://google.com)
-
 
 # Notes
 http://aka.ms/AIBuilderMBASLab
